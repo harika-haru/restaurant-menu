@@ -1,0 +1,144 @@
+body {
+    background-color: aliceblue;
+}
+
+.box {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 690px;
+    height: 700px;
+    position: relative;
+    background-color: #81592D;
+}
+
+.pic {
+    width: 70%;
+    height: 70%;
+    position: absolute;
+    top: 70px;
+    left: 120px;
+
+}
+
+#name {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    color: white;
+    font-family: "Merienda One";
+    text-transform: uppercase;
+    font-size: 44px;
+}
+
+h2 {
+    position: absolute;
+    top: 30rem;
+    left: 18rem;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+}
+
+.place {
+    color: white;
+    position: absolute;
+    top: 34rem;
+    left: 3rem;
+    font-size: 35px;
+    font-family: "Merriweather";
+}
+
+.venue {
+    color: white;
+    position: absolute;
+    top: 39rem;
+    left: 10rem;
+    letter-spacing: 3px;
+
+}
+
+.box2 {
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #81592D;
+}
+
+.box3 {
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    right: 0px;
+    background-color: #AA8459;
+}
+
+#breakfast {
+    position: absolute;
+    top: 1rem;
+    left: 10rem;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+.underline {
+    border: none;
+    border-top: 2px solid #000000;
+    margin-top: 4rem;
+}
+
+.menu-item {
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.menu-price {
+    float: right;
+    margin-right: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+#salad {
+    position: absolute;
+    top: 26.5rem;
+    left: 12rem;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+#pic2{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: 0px;
+    left: -12rem;
+}
+#pic3{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: 14rem;
+    left: -12rem;
+}
+#pic4{
+    width: 35%;
+    height: 30%;
+    position: absolute;
+    top: 490px;
+    left: -12rem;
+}
