@@ -43,7 +43,7 @@ h2 {
     color: white;
     position: absolute;
     top: 34rem;
-    left: 3rem;
+    left: 7rem;
     font-size: 35px;
     font-family: "Merriweather";
 }
@@ -121,24 +121,122 @@ li {
     font-size: 24px;
 }
 
-#pic2{
-    width: 40%;
-    height: 40%;
+#pic2 {
+    width: 42%;
+    height: 42%;
     position: absolute;
     top: 0px;
     left: -12rem;
 }
-#pic3{
+
+#pic3 {
     width: 40%;
     height: 40%;
     position: absolute;
-    top: 14rem;
+    top: 15rem;
     left: -12rem;
 }
-#pic4{
+
+#pic4 {
     width: 35%;
     height: 30%;
     position: absolute;
     top: 490px;
     left: -12rem;
+}
+
+.box4 {
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    top: 50rem;
+    left: 10px;
+    background-color: #81592D;
+}
+
+.box5 {
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    right: 0px;
+    background-color: #AA8459;
+}
+
+#lunch {
+    position: absolute;
+    top: 1rem;
+    left: 10rem;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+#dessert {
+    position: absolute;
+    top: 26.5rem;
+    left: 12rem;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+#pic5 {
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: 420px;
+    left: -12rem;
+}
+
+.box6 {
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    top: 50rem;
+    right: 10px;
+    background-color: #81592D;
+}
+
+.box7 {
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    right: 0px;
+    background-color: #AA8459;
+}
+
+#fast-food {
+    position: absolute;
+    top: 1rem;
+    left: 10rem;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+#drinks {
+    position: absolute;
+    top: 26.5rem;
+    left: 12rem;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+#pic6 {
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: 0px;
+    left: -12.5rem;
+}
+
+#pic7 {
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 15rem;
+    left: -12.45rem;
+}
+
+#pic8 {
+    width: 30%;
+    height: 38%;
+    position: absolute;
+    top: 428px;
+    left: -13rem;
 }
